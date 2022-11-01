@@ -1,2 +1,2 @@
 aws-lambda-powertools
-dataclasses
+dataclasses_json
