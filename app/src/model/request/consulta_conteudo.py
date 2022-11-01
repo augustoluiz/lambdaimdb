@@ -6,5 +6,4 @@ from dataclasses_json import dataclass_json
 @dataclass
 class ConsultaConteudo:
     tipo_consulta: int
-    id: str
-    titulo: str
+    valor_consulta: str
